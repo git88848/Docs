@@ -78,7 +78,7 @@ pip install requests
 
 ### 💫 购买咨询
 - 🛍️ 如需购买请联系：[@Lawofforce](https://t.me/Lawofforce)
-- 🎯 演示群：[@QUYUkjdemo](https://t.me/QUYUkjdemo)
+- 🎯 演示群：[@QUYUfjgjcjt](https://t.me/QUYUfjgjcjt)
 
 ## 💝 赞助支持
 
