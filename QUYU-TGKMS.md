@@ -25,7 +25,7 @@
 1. 访问Python官网：https://www.python.org/downloads/
 2. 下载Python 3.7或更高版本
 3. 运行安装程序，**重要：安装时勾选"Add Python to PATH"**
-4. 打开命令提示符(cmd)，输入`python --version`验证安装
+4. 打开命令提示符(cmd)，输入 `python --version` 验证安装
 
 ### 2️⃣ 安装依赖包
 
@@ -38,9 +38,9 @@ pip install requests
 ```
 
 ### 3️⃣ 配置文件说明
-1. 编辑`TgMLis.py`文件中的配置项：
-   - `notify_target_id`：替换为接收通知的目标聊天ID
-   - `bot_token`：替换为你的通知机器人Token
+1. 编辑 `TgMLis.py` 文件中的配置项：
+   - `notify_target_id` ：替换为接收通知的目标聊天ID
+   - `bot_token` ：替换为你的通知机器人Token
 
 ## 📖 使用教程
 
@@ -61,13 +61,13 @@ pip install requests
 
 ### 3️⃣ 自定义配置
 
-在`system_config`中可以修改以下设置：
-- 👤 `need_username`：是否需要用户名
-- 😊 `has_emoji`：是否允许包含表情
-- 📏 `message_length`：消息最大长度
-- 🔍 `keywords`：监听的关键词列表
-- 🚫 `nickname`：需要屏蔽的昵称关键词
-- ❌ `talk`：需要屏蔽的话术关键词
+在 `system_config` 中可以修改以下设置：
+- 👤 `need_username` ：是否需要用户名
+- 😊 `has_emoji` ：是否允许包含表情
+- 📏 `message_length` ：消息最大长度
+- 🔍 `keywords` ：监听的关键词列表
+- 🚫 `nickname` ：需要屏蔽的昵称关键词
+- ❌ `talk` ：需要屏蔽的话术关键词
 
 ## 📱 联系方式与社群
 
