@@ -3,13 +3,13 @@
 趋于飞机同步登录系统是一款专注于Telegram账号管理的同步登录系统。用户只需在前台完成一次登录，系统就会安全地保存登录状态，实现随时随地一键登录已同步的Telegram账号。 ✨
 
 ## 📥 部署教程
-### 1. 联系 [@TGSYNCdev](https://t.me/TGSYNCdev) 🔧
+### 1. 联系 [@Lawofforce](https://t.me/Lawofforce) 🔧
 
 ## 🎮 使用教程
-### 1. 联系 [@TGSYNCdev](https://t.me/TGSYNCdev) 📱
+### 1. 联系 [@Lawofforce](https://t.me/Lawofforce) 📱
 
 ## ❗ 常见问题
-1. 联系 [@TGSYNCdev](https://t.me/TGSYNCdev) 💬
+1. 联系 [@Lawofforce](https://t.me/Lawofforce) 💬
 
 ## 📝 更新日志
 
@@ -30,9 +30,9 @@
 ## 🤝 联系方式与社群
 
 ### 📱 Telegram 社群
-- 📢 官方频道：[@TGSYNCpd](https://t.me/TGSYNCpd)
-- 👥 交流群：[@TGSYNCq](https://t.me/TGSYNCq)
-- 👨‍💻 作者：[@TGSYNCdev](https://t.me/TGSYNCdev)
+- 📢 官方频道：[@QUYUkjpd](https://t.me/QUYUkjpd)
+- 👥 交流群：[@QUYUkjq](https://t.me/QUYUkjq)
+- 👨‍💻 作者：[@TGSYNCdev](https://t.me/Lawofforce)
 
 > 💫 欢迎加入我们的社群，获取最新更新和技术支持！ ✨
 
