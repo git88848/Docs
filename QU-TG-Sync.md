@@ -32,7 +32,7 @@
 ### 📱 Telegram 社群
 - 📢 官方频道：[@QUYUkjpd](https://t.me/QUYUkjpd)
 - 👥 交流群：[@QUYUkjq](https://t.me/QUYUkjq)
-- 👨‍💻 作者：[@TGSYNCdev](https://t.me/Lawofforce)
+- 👨‍💻 作者：[@Lawofforce](https://t.me/Lawofforce)
 
 > 💫 欢迎加入我们的社群，获取最新更新和技术支持！ ✨
 
