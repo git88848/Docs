@@ -1,4 +1,4 @@
-# 🚀 趋于Windows剪贴板监控工具 v1.0.0 (QuYuClip)
+# 🚀 趋于Windows剪贴板监控工具 (QuYuClip)
 
 一款功能强大的Windows剪贴板监控工具，支持多种格式内容监控和远程通知功能。 🔥
 
