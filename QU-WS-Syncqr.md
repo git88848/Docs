@@ -1,6 +1,6 @@
 # 🚀 趋于WhatsApp扫码同步登录系统 (QU-WS-Syncqr)
 
-趋于WhatsApp扫码同步登录系统是一款专注于WhatsApp账号管理的同步登录系统。用户只需在前台完成一次登录，系统就会安全地保存登录状态，实现随时随地一键登录已同步的WhatsApp账号。
+一款专注于WhatsApp账号管理的同步登录系统。用户只需在前台扫码完成一次登录，系统就会安全地保存登录状态，实现随时随地一键登录已同步的WhatsApp账号。
 
 ## 📥 部署教程
 ### 1. 联系 [@Lawofforce](https://t.me/Lawofforce) 🔧
