@@ -46,7 +46,7 @@ TQ2gs6167orQSVWVNHWrKq9SZ8a5WRETZs
 
 <img src="https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=TQ2gs6167orQSVWVNHWrKq9SZ8a5WRETZs" alt="TRC20-USDT 二维码" width="200"/>
 
-> 🌟 您的支持是我们持续改进的动力！ ✨
+> 🌟 您的支持是我们持续改进的动力！
 
 ## ⚠️ 免责声明
 本系统仅供学习交流使用，请勿用于非法用途。使用本系统所产生的一切后果由使用者自行承担。 🔒
